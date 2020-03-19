@@ -1,0 +1,11 @@
+3.0 - 04.09.2018
+ - Switch to Django 2.1
+ - Added new sample with TestModel
+
+2.0 - 15.07.2016
+ - Switch to requirements.txt from buildout
+ - update to latest stable Django and Datatables
+
+1.0 - 22.06.2014
+ - updated buildout to use django 1.6.5
+ - added buildout_development.cfg for datatables development
